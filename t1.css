@@ -1,0 +1,156 @@
+body{
+    border-top: 16px solid rgba(15,150,0,1);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.div1 #b0{
+    display:inline-block;
+    margin-right: 300px;
+}
+.div1 #b3{
+    display:inline-block;
+    margin-right:20px ;
+    margin-left: 20px;
+}
+.div1 #b2{
+    display:inline-block;
+    margin-right:20px ;
+    margin-left: 20px;
+}
+.div1 #b1{
+    margin-right:20px ;
+    margin-left: 20px;
+    display:inline-block;
+    border-radius: 10px;
+    background-color: rgba(97, 150, 0, 0.788);
+    color:honeydew;
+}
+.div1 #b4{
+    display:inline-block;
+    background-color: rgba(0, 150, 12, 0.9);
+    color:honeydew;
+    border-radius: 10px;
+    margin-right:700px ;
+    margin-left: 0px;
+}
+#h3{
+    text-align: center;
+    font-size: 30px;
+}
+#f1{
+    display: inline-block;
+    border-radius: 350px ;
+    width: 170px;
+    height: 150px;
+    padding-top:10px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: rgba(255, 174, 0, 0.897);
+    font-size: 20px;
+    position:absolute;
+    right: 220px;
+}
+#f2{
+    margin-top: 60px;
+}
+#f3{
+    display: inline-block;
+    border-radius: 350px ;
+    width: 170px;
+    height: 150px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: rgba(255, 174, 0, 0.897);
+    font-size: 20px;
+    position:absolute;
+    right: 650px;
+}
+#f4{
+    margin-top: 60px;
+}
+#f5{
+    display: inline-block;
+    border-radius: 350px ;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: rgba(255, 174, 0, 0.897);
+    font-size: 20px; 
+    position:absolute;
+    left: 200px;
+}
+#f6{
+    margin-top: 40px;
+}
+.div2 #d2{
+    background-color: rgb(206, 195, 194);
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 100px;
+}
+.div2 #h23{
+    text-align: center;
+    margin-top: 350px;
+    color: rgb(16, 150, 11);
+}
+#fig11{
+    margin-right: 36px;
+    color:rgb(16, 150, 11);
+}
+#fig0{
+    margin-right: 35px;
+    color:rgb(16, 150, 11);
+}
+#fig12{
+    margin-right: 63px;
+    color:rgb(16, 150, 11);
+}
+#fig22{
+    margin-right: 35px;
+    color:rgb(16, 150, 11);
+}
+#figu{
+    
+    margin-right: 150px;
+    display:inline-block;
+}
+#fi12{
+    margin-left:100px ;
+    margin-right:90px ;
+    display:inline-block;
+}
+#fi22{
+    margin-right: 150px;
+    margin-left: 100px;
+    display:inline-block;
+}
+#fig1{
+    margin-right: 100px;
+    display:inline-block
+}
+.div2 #d2{
+   background-color:20px solid gray;
+}
+#i4:hover {
+   border-bottom: 10px solid rgb(16, 141, 16);
+}
+#i3:hover{
+    border-bottom: 10px solid rgb(16, 141, 16);
+}
+#i2:hover{
+    border-bottom: 10px solid rgb(16, 141, 16);
+}
+#i1:hover{
+    border-bottom: 10px solid rgb(16, 141, 16);
+}
+#i1,#i2,#i3,#i4 {
+    border: 3px solid rgba(221, 221, 221, 0.986);
+    border-radius: 15px;
+    padding: 45px 55px;
+    width: 60px;
+   margin-bottom: 0px;
+}
